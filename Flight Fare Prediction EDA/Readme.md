@@ -7,12 +7,11 @@
 
 
 ## Data source :
-* Data was taken from kaggle.com , link to same is given below.
-* link: https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh?datasetId=140442&sortBy=voteCount&searchQuery=eda
+* Data was taken from [kaggle.com](https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh?datasetId=140442&sortBy=voteCount&searchQuery=eda)
 
 
 ## AIM :
-###To perform Exploratory Data Analysis to understand the data in correspondence to solving the problem statment as well as getting insights from the data.
+### To perform Exploratory Data Analysis to understand the data in correspondence to solving the problem statment as well as getting insights from the data.
 
 
 ### Tools and libraries:
